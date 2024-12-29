@@ -7,17 +7,9 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on **Mobile Applications and Full-Stack Projects**
-
-- 🌱 I’m currently diving deeper into **AI and Advanced Android Programming**
-
-- 👨‍💻 All of my projects are available at [My Portfolio](https://elbehikoutheir.netlify.com/)
-
-- 💬 Ask me about **JavaScript, React, Android Development, Node.js**
-
-- 📫 Reach me at **elbehi.koutheir@gmail.com**
-
-- ⚡ Fun fact: **A "git pull" a day keeps the conflicts away!**
+- I am a dedicated Full-Stack Developer with a passion for crafting seamless user experiences and robust back-end solutions.
+- I enjoy solving complex problems and learning new technologies to stay ahead in the ever-evolving tech world.
+- My journey in software development has been fueled by curiosity, creativity, and a constant drive to improve.
 
 <h3 align="left">Languages and Frameworks:</h3>
 <p align="left">
@@ -83,16 +75,4 @@
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzkou&layout=compact&langs_count=10" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itzkou&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itzkou" alt="GitHub Streak" />
 </p>
