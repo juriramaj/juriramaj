@@ -52,12 +52,6 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" /><br>PHP
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" /><br>Java
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="40" height="40" /><br>.NET Core
-    </td>
-    <td align="center">
       <img src="https://www.vectorlogo.zone/logos/kafka/kafka-icon.svg" alt="Kafka" width="40" height="40" /><br>Kafka
     </td>
     <td align="center">
